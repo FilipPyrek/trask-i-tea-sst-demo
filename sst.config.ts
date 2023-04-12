@@ -5,6 +5,7 @@ export default {
   config(_input) {
     return {
       name: "itea",
+      stage: 'prod',
       region: "us-east-1",
     };
   },
