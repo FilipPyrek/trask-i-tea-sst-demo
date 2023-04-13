@@ -6,7 +6,7 @@ export default {
     return {
       name: "itea",
       stage: 'prod',
-      region: "us-east-1",
+      region: "eu-central-1",
     };
   },
   stacks(app) {
